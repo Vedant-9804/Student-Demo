@@ -1,4 +1,4 @@
 # Student-Demo
-This is mhy first Repository.
+This is my first Repository.
 <br>
 Author - Vedant Patel
